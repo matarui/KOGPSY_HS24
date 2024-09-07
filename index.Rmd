@@ -1,11 +1,11 @@
 ---
 title: "KOGPSY"
 description: |
-  Welcome to the website for *Kognitionspsychologie II* FS24 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=280442))
+  Welcome to the website for *Kognitionspsychologie I* HS24 ([23263-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=284655))
   
-  Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
+  Instructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
-  **WEBSITE UNDER CONSTRUCTION:** Last updated `r format(Sys.time(), "%a %b %d %X %Y")`
+  **Last updated:** `r format(Sys.time(), "%a %b %d %X %Y")`
   
 site: distill::distill_website
 ---
@@ -21,47 +21,42 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-![Thinking, feeling, willing are simply words we use to describe different ways of using one's brain! <span>Photo by <a href="https://unsplash.com/@jessemartini?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jesse Martini</a> on <a href="https://unsplash.com/s/photos/brain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/jesse-martini-Iod3vdjKE1E-unsplash.jpg)
+![Thinking is simply using one's brain! <span>Photo by <a href="https://unsplash.com/@jessemartini?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jesse Martini</a> on <a href="https://unsplash.com/s/photos/brain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/jesse-martini-Iod3vdjKE1E-unsplash.jpg)
 
 # Session information
 
-Sessions take place Tuesdays, 10.15-11.45, Biozentrum, Maurice E. Müller Saal U1.111. 
+Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1. 
 
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 27.02.2024 | [Session 1: Introduction](session1.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session1.pdf)|
-| 2 | 05.03.2024 | [Session 2: Intelligence](session2.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session2.pdf)|
-| 3 | 12.03.2024 | [Session 3: Spatial cognition](session3.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session3.pdf)|
-| 4 | 19.03.2024 | [Session 4: Numerical cognition](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session4.pdf)|
-| 5 | 26.03.2024 | [Session 5: Emotion](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session5.pdf)|
-| 6 | 09.04.2024 | [Session 6: Social cognition](session6.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session6.pdf)|
-| 7 | 16.04.2024 | [Session 7: Motivation](session7.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session7.pdf)|
-| 8 | 23.04.2024 | [Session 8: Language](session8.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session8.pdf)|
-| 9 | 30.04.2024 | [Session 9: Knowing](session9.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session9.pdf)|
-|10 | 07.05.2024 | [Session 10: Consciousness](session10.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session10.pdf)|
-|11 | 14.05.2024 | [Session 11: What's next](session11.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session11.pdf)|
-|12 | 21.05.2024 | [Session 12: Q&A](session12.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session12.pdf)|
-|13 | 04.06.2024 | [Exam](exam.html) | |
+| 1 | 01.10.2024 | Session 1: Introduction | tba |
+| 2 | 08.10.2024 | Session 2: Intelligence | tba |
+| 3 | 15.10.2024 | Session 3: Visual Perception | tba |
+| 4 | 22.10.2024 | Session 4: Spatial cognition | tba |
+| 5 | 29.10.2024 | Session 5: Numerical cognition | tba |
+| 6 | 05.11.2024 | Session 6: Language | tba |
+| 7 | 12.11.2024 | Session 7: Knowing | tba |
+| 8 | 19.11.2024 | Session 8: Consciousness | tba |
+| 9 | 26.11.2024 | Session 9: Applications | tba |
+|10 | 03.12.2024 | Session 10: Applications | tba |
+|11 | 10.12.2024 | Session 11: Methods | tba |
+|12 | 17.12.2024 | Session 12: "What's next?" and Q&A](session12.html) | tba |
 :::
-
-```{r, include=FALSE}
-# https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session1.pdf
-```
 
 # What is this course about?
 
-This course aims to give a broad introduction to central topics in psychology, with a focus on mechanistic explanations of cognition, emotion, and motivation. 
+This course aims to give a broad introduction to central topics in psychology, with a focus on mechanistic and pluralistic explanations of cognition. 
 
 # What can you expect to learn?
 
 By completing the course you can expect to...
 
+- reflect about the need for mechanistic and pluralistic explanations in psychology
 - learn about central theories and models in key areas of psychology
 - become familiarized with common methods used in psychology
 - learn about examples of applications of psychology to real-world contexts
-- reflect about the need for pluralistic explanations in psychology
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and the course materials (e.g., slides, recommended readings). Recommended readings cover central topics discussed in each session and, therefore, they represent a central resource for a thorough preparation for the exam. A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 
+This website is designed to help course participants get an overview of the course and the course slides (which will be made available either shortly after or before each session). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1736790.html) forum is available on ADAM. 
