@@ -41,7 +41,7 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 | 9 | 26.11.2024 | Session 9: Applications | tba |
 |10 | 03.12.2024 | Session 10: Applications | tba |
 |11 | 10.12.2024 | Session 11: Methods | tba |
-|12 | 17.12.2024 | Session 12: "What's next?" and Q&A](session12.html) | tba |
+|12 | 17.12.2024 | Session 12: "What's next?" and Q&A | tba |
 :::
 
 # What is this course about?
