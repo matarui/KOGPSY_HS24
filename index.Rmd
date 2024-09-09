@@ -30,18 +30,18 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 01.10.2024 | Session 1: Introduction | tba |
-| 2 | 08.10.2024 | Session 2: Intelligence | tba |
-| 3 | 15.10.2024 | Session 3: Visual perception | tba |
-| 4 | 22.10.2024 | Session 4: Spatial cognition | tba |
-| 5 | 29.10.2024 | Session 5: Numerical cognition | tba |
-| 6 | 05.11.2024 | Session 6: Language | tba |
-| 7 | 12.11.2024 | Session 7: Knowing | tba |
-| 8 | 19.11.2024 | Session 8: Consciousness | tba |
-| 9 | 26.11.2024 | Session 9: Applications | tba |
-|10 | 03.12.2024 | Session 10: Applications | tba |
-|11 | 10.12.2024 | Session 11: Applications | tba |
-|12 | 17.12.2024 | Session 12: Wrap-up and Q&A | tba |
+| 1 | 01.10.2024 | Session 1: Introduction | [pdf]() |
+| 2 | 08.10.2024 | Session 2: Intelligence | [pdf]() |
+| 3 | 15.10.2024 | Session 3: Perception | [pdf]() |
+| 4 | 22.10.2024 | Session 4: Spatial cognition | [pdf]() |
+| 5 | 29.10.2024 | Session 5: Numerical cognition | [pdf]() |
+| 6 | 05.11.2024 | Session 6: Language | [pdf]() |
+| 7 | 12.11.2024 | Session 7: Knowing | [pdf]() |
+| 8 | 19.11.2024 | Session 8: Consciousness | [pdf]() |
+| 9 | 26.11.2024 | Session 9: Applications | [pdf]() |
+|10 | 03.12.2024 | Session 10: Applications | [pdf]() |
+|11 | 10.12.2024 | Session 11: Applications | [pdf]() |
+|12 | 17.12.2024 | Session 12: Wrap-up and Q&A | [pdf]() |
 :::
 
 *Note. Slides will be made available either shortly before or after each session*
