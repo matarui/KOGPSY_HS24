@@ -63,7 +63,7 @@ By completing the course you can expect to...
 
 This website is designed to help course participants get an overview of the course, including a listing of recommended readings (see below) and the course slides (see table above). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1736790.html) forum is available on ADAM. 
 
-## Recommended Readings
+**Recommended Readings**
 
 **Session 1**
 
