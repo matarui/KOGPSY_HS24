@@ -30,7 +30,7 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 01.10.2024 | Session 1: Introduction | [pdf]() |
+| 1 | 01.10.2024 | Session 1: Introduction | [pdf](presentations/KOGSPY_session1.pdf) |
 | 2 | 08.10.2024 | Session 2: Intelligence | |
 | 3 | 15.10.2024 | Session 3: Perception |  |
 | 4 | 22.10.2024 | Session 4: Spatial cognition |  |
