@@ -32,7 +32,7 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 |---| ---------|-------------------------------|--------|
 | 1 | 01.10.2024 | Session 1: Introduction | [pdf](presentations/KOGPSY_session1.pdf) |
 | 2 | 08.10.2024 | Session 2: Intelligence | [pdf](presentations/KOGPSY_session2.pdf) |
-| 3 | 15.10.2024 | Session 3: Perception |  |
+| 3 | 15.10.2024 | Session 3: Perception | [pdf](presentations/KOGPSY_session3.pdf)  |
 | 4 | 22.10.2024 | Session 4: Spatial cognition |  |
 | 5 | 29.10.2024 | Session 5: Numerical cognition |  |
 | 6 | 05.11.2024 | Session 6: Language |  |
@@ -78,6 +78,8 @@ Barbey, A. K. (2018). Network neuroscience theory of human intelligence. Trends 
 Kovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. Psychological Inquiry, 27(3), 151–177. http://doi.org/10.1080/1047840X.2016.1153946
 
 **Session 3**
+
+Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Chapter 5: Sensation and Perception, Cognitive neuroscience: The biology of the mind (5th ed.). W.W. Norton & Company. 
 
 Bracci, S., & Op De Beeck, H. P. (2023). Understanding human object vision: A picture is worth a thousand representations. Annual Review of Psychology, 74(1), 113–135. https://doi.org/10.1146/annurev-psych-032720-041031
 
