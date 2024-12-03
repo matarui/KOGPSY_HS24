@@ -36,12 +36,10 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 | 4 | 22.10.2024 | Session 4: Spatial cognition | [pdf](presentations/KOGPSY_session4.pdf) |
 | 5 | 29.10.2024 | Session 5: Numerical cognition | [pdf](presentations/KOGPSY_session5.pdf) |
 | 6 | 05.11.2024 | Session 6: Language | [pdf](presentations/KOGPSY_session6.pdf) |
-| 7 | 12.11.2024 | Session 7: Knowing | [pdf](presentations/KOGPSY_session7.pdf) |
-| 8 | 19.11.2024 | Session 8: Consciousness | |
-| 9 | 26.11.2024 | Session 9: Applications: Reading acquisition |  |
-|10 | 03.12.2024 | Session 10: Applications: Study techniques |  |
-|11 | 10.12.2024 | Session 11: Applications: Combating misinformation |  |
-|12 | 17.12.2024 | Session 12: Wrap-up and Q&A |  |
+| 7 | 19.11.2024 | Session 7: Knowing | [pdf](presentations/KOGPSY_session7.pdf) |
+| 8 | 03.12.2024 | Session 8: Consciousness | [pdf](presentations/KOGPSY_session8.pdf) |
+| 9 | 10.12.2024 | Session 9: Applications |  |
+|10 | 17.12.2024 | Session 10: Wrap-up and Q&A |  |
 :::
 
 *Note. Slides will be made available either shortly after each session*
@@ -109,14 +107,10 @@ Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could mac
 
 Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5–51. https://doi.org/10.1177/1529100618772271
 
-**Session 10**
-
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 
-**Session 11**
+~~Ecker, U. K. H., Lewandowsky, S., Cook, J., Schmid, P., Fazio, L. K., Brashier, N., Kendeou, P., Vraga, E. K., & Amazeen, M. A. (2022). The psychological drivers of misinformation belief and its resistance to correction. Nature Reviews Psychology, 1(1), 13–29. https://doi.org/10.1038/s44159-021-00006-y~~
 
-Ecker, U. K. H., Lewandowsky, S., Cook, J., Schmid, P., Fazio, L. K., Brashier, N., Kendeou, P., Vraga, E. K., & Amazeen, M. A. (2022). The psychological drivers of misinformation belief and its resistance to correction. Nature Reviews Psychology, 1(1), 13–29. https://doi.org/10.1038/s44159-021-00006-y
-
-**Session 12**
+**Session 10**
 
 No recommended readings for this session.
