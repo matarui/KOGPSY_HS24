@@ -39,7 +39,7 @@ Sessions take place Tuesdays, 10.15-11.45, Pharmazentrum, Hörsaal 1.
 | 7 | 19.11.2024 | Session 7: Knowing | [pdf](presentations/KOGPSY_session7.pdf) |
 | 8 | 03.12.2024 | Session 8: Consciousness | [pdf](presentations/KOGPSY_session8.pdf) |
 | 9 | 10.12.2024 | Session 9: Applications | [pdf](presentations/KOGPSY_session9.pdf) |
-|10 | 17.12.2024 | Session 10: Wrap-up and Q&A |  |
+|10 | 17.12.2024 | Session 10: Wrap-up and Q&A | [pdf](presentations/KOGPSY_session10.pdf)  |
 :::
 
 *Note. Slides will be made available either shortly after each session*
